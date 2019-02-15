@@ -1,0 +1,276 @@
+{
+  "code": "qui2",
+  "title": "capitals hard",
+  "description": "learn hard capitals of the world",
+  "image": "France.png",
+  "questions": [
+    {
+      "flag": "Vatican_City.png",
+      "title": "Vatican City",
+      "answers": [
+        {
+          "text": "Vatican City",
+          "isCorrect": "true"
+        },
+        {
+          "text": "N'Djamena",
+          "isCorrect": "false"
+        },
+        {
+          "text": "San Salvador",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Vienna",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "This country is a city-state"
+    },
+    {
+      "flag": "Venezuela.png",
+      "title": "Venezuela",
+      "answers": [
+        {
+          "text": "Caracas",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Dakar",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Dushanbe",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Port Louis",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Vietnam.png",
+      "title": "Vietnam",
+      "answers": [
+        {
+          "text": "Hanoi",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Naypyidaw",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Port-au-Prince",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Stanley",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Wake_Island.png",
+      "title": "Wake Island",
+      "answers": [
+        {
+          "text": "no official capital",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Porto-Novo",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Stockholm",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Vatican City",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "overseas territory of the United States"
+    },
+    {
+      "flag": "Wallis_and_Futuna.png",
+      "title": "Wallis and Futuna ",
+      "answers": [
+        {
+          "text": "no official capital",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Apia",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Bucharest",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Vilnius",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "overseas territory of France"
+    },
+    {
+      "flag": "Western_Sahara.png",
+      "title": "Western Sahara",
+      "answers": [
+        {
+          "text": "El Aaiún ",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Tallinn",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Saint Peter Port",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Lomé",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "unofficial"
+    },
+    {
+      "flag": "Yemen.png",
+      "title": "Yemen",
+      "answers": [
+        {
+          "text": "Sana'a",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Stanley",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Jamestown",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Madrid",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Zambia.png",
+      "title": "Zambia",
+      "answers": [
+        {
+          "text": "Lusaka",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Oranjestad",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Saint-Denis",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Tripoli",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Zimbabwe.png",
+      "title": "Zimbabwe",
+      "answers": [
+        {
+          "text": "Harare",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Belmopan",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Apia",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Saipan",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+        {    "flag": "Denmark.png",
+      "title": "Denmark",
+      "answers": [
+        {           "text": "Copenhagen",
+          "isCorrect": "true"
+        },
+        {           "text": "San José",
+          "isCorrect": "false"
+        },
+        {           "text": "Tirana",
+          "isCorrect": "false"
+        },
+        {           "text": "Canberra",
+          "isCorrect": "false"
+        }
+      ],
+
+      "description": ""
+    }
+  ,
+
+    {    "flag": "Djibouti.png",
+      "title": "Djibouti",
+      "answers": [
+        {           "text": "Djibouti",
+          "isCorrect": "true"
+        },
+        {           "text": "Bamako",
+          "isCorrect": "false"
+        },
+        {           "text": "Nicosia",
+          "isCorrect": "false"
+        },
+        {           "text": "Manila",
+          "isCorrect": "false"
+        }
+      ],
+
+      "description": ""
+    }
+  ,
+
+    {    "flag": "Dominica.png",
+      "title": "Dominica",
+      "answers": [
+        {           "text": "Roseau",
+          "isCorrect": "true"
+        },
+        {           "text": "Reykjavík",
+          "isCorrect": "false"
+        },
+        {           "text": "Mbabane",
+          "isCorrect": "false"
+        },
+        {           "text": "Berlin",
+          "isCorrect": "false"
+        }
+      ],
+
+      "description": ""
+    }
+  ]
+}

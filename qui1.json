@@ -1,0 +1,399 @@
+{
+  "code": "qui1",
+  "title": "easy capitals",
+  "image":"q1.png",
+  "description": "learn easy capitals of the world",
+  "questions": [
+    {
+      "flag": "Afghanistan.png",
+      "title": "Afghanistan",
+      "answers": [
+        {
+          "text": "Kabul",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Malé",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Yerevan",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Freetown",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Albania.png",
+      "title": "Albania",
+      "answers": [
+        {
+          "text": "Tirana",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Helsinki",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Beirut",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Port Moresby",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Algeria.png",
+      "title": "Algeria",
+      "answers": [
+        {
+          "text": "Algiers",
+          "isCorrect": "true"
+        },
+        {
+          "text": "San Marino",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Avarua",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Monaco",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "American_Samoa.png",
+      "title": "American Samoa",
+      "answers": [
+        {
+          "text": "Pago Pago ",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Gibraltar",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Papeete",
+          "isCorrect": "false"
+        },
+        {
+          "text": "George Town",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "seat of government at Fagatogo, overseas territory of the United States"
+    },
+    {
+      "flag": "Andorra.png",
+      "title": "Andorra",
+      "answers": [
+        {
+          "text": "Andorra la Vella",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Malabo",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Caracas",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Riga",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Angola.png",
+      "title": "Angola",
+      "answers": [
+        {
+          "text": "Luanda",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Ottawa",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Douglas",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Roseau",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Anguilla.png",
+      "title": "Anguilla",
+      "answers": [
+        {
+          "text": "The Valley",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Kampala",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Taipei",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Bujumbura",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "overseas territory of the United Kingdom"
+    },
+    {
+      "flag": "Antigua_and_Barbuda.png",
+      "title": "Antigua and Barbuda",
+      "answers": [
+        {
+          "text": "Saint John's",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Luxembourg",
+          "isCorrect": "false"
+        },
+        {
+          "text": "N'Djamena",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Phnom Penh",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Argentina.png",
+      "title": "Argentina",
+      "answers": [
+        {
+          "text": "Buenos Aires",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Malé",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Windhoek",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Kigali",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Armenia.png",
+      "title": "Armenia",
+      "answers": [
+        {
+          "text": "Yerevan",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Manama",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Roseau",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Dublin",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Aruba.png",
+      "title": "Aruba ",
+      "answers": [
+        {
+          "text": "Oranjestad",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Skopje",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Monrovia",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Kiev",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "overseas country in the Kingdom of the Netherlands"
+    },
+    {
+      "flag": "Australia.png",
+      "title": "Australia",
+      "answers": [
+        {
+          "text": "Canberra",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Monaco",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Niamey",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Athens",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Austria.png",
+      "title": "Austria",
+      "answers": [
+        {
+          "text": "Vienna",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Port Vila",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Phnom Penh",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Port Moresby",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Azerbaijan.png",
+      "title": "Azerbaijan",
+      "answers": [
+        {
+          "text": "Baku",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Canberra",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Lusaka",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Marigot",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Bahamas.png",
+      "title": "Bahamas",
+      "answers": [
+        {
+          "text": "Nassau",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Alofi",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Sri Jayewardenepura Kotte",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Apia",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "Bahrain.png",
+      "title": "Bahrain",
+      "answers": [
+        {
+          "text": "Manama",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Victoria",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Nicosia",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Lisbon",
+          "isCorrect": "false"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "flag": "United_States_of_America.png",
+      "title": "Baker Island",
+      "answers": [
+        {
+          "text": "no official capital",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Beirut",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Ulaanbaatar",
+          "isCorrect": "false"
+        },
+        {
+          "text": "Adamstown",
+          "isCorrect": "false"
+        }
+      ],
+      "description": "overseas territory of the United States"
+    }
+  ]
+}
